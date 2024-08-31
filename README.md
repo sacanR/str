@@ -1,0 +1,2 @@
+# str
+R string functions
